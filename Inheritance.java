@@ -41,6 +41,10 @@ class Dog extends Animal{
 }
 class ConstructorInheritance{
     
+
+
+
+    // new added
 }
 public class Inheritance {
     public static void main(String args[]){
